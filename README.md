@@ -25,6 +25,13 @@ I build gameplay systems, AI behaviors and interactive tools with a strong found
 
 ---
 
+## 🌍 Languages
+- **Spanish:** Native  
+- **English:** Upper-Intermediate / Advanced (B2–C1)  
+- **Japanese:** Intermediate (JLPT N4)
+
+---
+
 ## 🔗 Find Me
 - 🎮 Twitch (dev streams): https://twitch.tv/KleineMondlied  
 - 🕹 Itch.io: https://kleine-mondlied.itch.io  
